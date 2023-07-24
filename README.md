@@ -5,6 +5,6 @@
 - Node installed 
 
 ### Installation
-`git clone https://github.com/martinmwas254/Count.git COUNT`
-`cd COUNT`
-`node play.js`
+- `git clone https://github.com/martinmwas254/Count.git COUNT`
+- `cd COUNT`
+- `node play.js`
