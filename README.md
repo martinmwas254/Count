@@ -8,3 +8,4 @@
 - `git clone https://github.com/martinmwas254/Count.git COUNT`
 - `cd COUNT`
 - `node play.js`
+#### Testing git work flow
