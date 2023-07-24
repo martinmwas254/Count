@@ -2,7 +2,7 @@
 
 ### Requirements
 - Debian based operating system (WSL not included)
-- Node installed 
+- Node installed (https://linuxconfig.org/how-to-install-node-js-on-linux) 
 
 ### Installation
 - `git clone https://github.com/martinmwas254/Count.git COUNT`
